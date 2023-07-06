@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.menu-container{
+    background-color: rgb(34, 32, 32);
+    padding: 20px;
+    color: white;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.logo1{
+    width: 120px;
+}
+.menues{
+    display: flex;
+}
+.menu{
+    margin-right: 10px;
+    padding: 7.5px;
+    cursor: grabbing;
+    font-weight: bold;
+    
+    
+}
+.menu:hover{
+    color: green;
+    i
+}
