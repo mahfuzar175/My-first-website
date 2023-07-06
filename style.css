@@ -38,6 +38,7 @@
     align-items: center;
     height: 100vh;
     border: 2px solid gray;
-    background-image: url("./images/background.png");
-    linear-gradient(45deg, black)
+    background-image: url("./images/background.png"),
+    linear-gradient(45deg,#201f1f,rgb(22, 22, 24));
+    
 }
